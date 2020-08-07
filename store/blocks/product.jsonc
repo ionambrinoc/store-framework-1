@@ -29,7 +29,9 @@
       "product-price", 
       "product-name",
       "buy-button" 
-    ],
+    ]
+  },
+  "flex-layout.col#right": {
     "props": {
       "verticalAlign": "midle",
       "preventVerticalStretch": true
