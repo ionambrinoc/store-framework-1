@@ -2,6 +2,7 @@
   "store.search": {
     "blocks": ["search-result-layout.desktop"]
  },
+ 
  "search-result-layout.desktop": {
     "blocks": [
        "breadcrumb.search",
