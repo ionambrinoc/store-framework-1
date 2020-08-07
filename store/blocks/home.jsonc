@@ -5,7 +5,8 @@
       "info-card#button-right",
       "info-card#button-left",
       "flex-layout.row",
-      "shelf"    
+      "shelf",
+      "slider-layout#home"    
     ]
   },
   "rich-text": {
@@ -38,7 +39,7 @@
       "callToActionText": "Go to Collection",
       "callToActionUrl": "/sale/d",
       "textAlignment": "center",
-      "textPosition": "LEFT",
+      "textPosition": "left",
       "blockClass": "metal"
       }
   },
