@@ -8,8 +8,7 @@
       "shelf",
       "slider-layout#home",
       "responsive-layout.desktop#desktop",
-      "responsive-layout.mobile#mobile",
-      "store.custom#about-us"
+      "responsive-layout.mobile#mobile"
     ]
   },
   "rich-text": {
