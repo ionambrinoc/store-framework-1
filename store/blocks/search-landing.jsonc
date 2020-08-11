@@ -12,63 +12,22 @@
           }
       },
       "search-result-layout.customQuery": {
+          "blocks": [
+            "search-result-layout.desktop"
+          ],
           "props": {
-              "orderByField": "OrderByReleaseDateDESC",
-              "hideUnavailableItems": true,
-              "maxItemsPerPage": 8,
-              "search-title.v2": "Blue Top Retro Camera" ,
               "querySchema": {
                 "skusFilter": "FIRST_AVAILABLE",
                 "simulationBehavior": "skip"
               }
           }
-      } ,
-      "search-result-layout.customQuery#category": {
-         "props": {
+      },
+      "search-result-layout.desktop": {
+          "props": {
             "orderByField": "OrderByReleaseDateDESC",
             "hideUnavailableItems": true,
             "maxItemsPerPage": 8,
-            "search-title.v2": "Blue Top Retro Camera" ,
-            "querySchema": {
-                "skusFilter": "FIRST_AVAILABLE",
-                "simulationBehavior": "skip"
-              }
+            "search-title.v2": "Blue Top Retro Camera" 
           }
-       },
-       "search-result-layout.customQuery#brand": {
-         "props": {
-            "orderByField": "OrderByReleaseDateDESC",
-            "hideUnavailableItems": true,
-            "maxItemsPerPage": 8,
-            "search-title.v2": "Blue Top Retro Camera" ,
-            "querySchema": {
-                "skusFilter": "FIRST_AVAILABLE",
-                "simulationBehavior": "skip"
-              }
-          }
-       },
-       "search-result-layout.customQuery#department": {
-         "props": {
-            "orderByField": "OrderByReleaseDateDESC",
-            "hideUnavailableItems": true,
-            "maxItemsPerPage": 8,
-            "search-title.v2": "Blue Top Retro Camera" ,
-            "querySchema": {
-                "skusFilter": "FIRST_AVAILABLE",
-                "simulationBehavior": "skip"
-              }
-          }
-       },
-       "search-result-layout.customQuery#subcategory": {
-         "props": {
-            "orderByField": "OrderByReleaseDateDESC",
-            "hideUnavailableItems": true,
-            "maxItemsPerPage": 8,
-            "search-title.v2": "Blue Top Retro Camera" ,
-            "querySchema": {
-                "skusFilter": "FIRST_AVAILABLE",
-                "simulationBehavior": "skip"
-              }
-          }
-       }
+      } 
 }
